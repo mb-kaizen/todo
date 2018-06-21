@@ -3,14 +3,6 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 html,
 
-.author {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.author a {
-  color: #b83f45;
-}
 
 body {
   margin: 0;
@@ -390,4 +382,13 @@ html .clear-completed:active {
   .filters {
     bottom: 10px;
   }
+}
+
+.author {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.author a {
+  color: #b83f45;
 }
