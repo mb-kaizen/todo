@@ -1,24 +1,5 @@
-# README
+This is a dynamic TODO app that fetches data using RESTful JSON APIs from Rails and JavaScript to dynamically update the page.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It can be found here:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://todoster-mb-kaizen.herokuapp.com/
